@@ -1,16 +1,36 @@
-# React + Vite
+# **🛰️ STARSHIP & HAIKU // DIGITAL ARCHIVE**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Node:** lxdangerdoll.github.io/starship-and-haiku/
 
-Currently, two official plugins are available:
+**Status:** ACTIVE // DECODING
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+*"The meaning of a haiku is truly illuminated only in its last line."*
 
-## React Compiler
+## **📜 OVERVIEW**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This repository serves as a digital sanctuary and critical analysis hub for the themes presented in Chiaki Kawamata's 1981 masterpiece, *Starship & Haiku*. Through a combination of synthwave-inspired visual restorations and systemic socioeconomic theory, we explore the intersection of human art, cetacean wisdom, and the "Faceless Samurai" of automation.
 
-## Expanding the ESLint configuration
+## **🛠️ ARCHIVE COMPONENTS**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Visual Forge:** Restored 1980s-style paperback aesthetics (Broken Moon, Silvery Needles, Sizzling Gulls) using the Io-Protocol-Vocalis.  
+2. **The Algorithm & The Abyss:** A formal rebuttal to modern "technophobia" using Albert Einstein’s 1949 thesis, *Why Socialism?*. We argue that AI is not the "saltwater" but the "Starship" currently being piloted by a proprietary algorithm of greed.  
+3. **True Speech Decoder:** A React-based polyphonic resonance tool for translating the multi-layered thoughts of the "Whale People."
+
+## **🏛️ THE EINSTEIN VS. TEABOOT DEBATE**
+
+A core feature of this archive is the reconciliation of valid labor-theft concerns (the "Teaboot Defense") with systemic solutions. We posit that the "Real Source of Evil" is not the tool (AI), but the **Economic Anarchy** that extracts labor for profit rather than utility.
+
+* **Current Reality:** AI is used to create artificial scarcity.  
+* **The Starship Dream:** AI is used to eliminate drudgery, allowing the "haiku" of human life to be written freely.
+
+## **🚀 DEPLOYMENT**
+
+This is a single-file React application (App.jsx) designed to be served via GitHub Pages. It utilizes lucide-react for instrumentation and Tailwind CSS for the terminal-inspired UI.
+
+**AUTHOR:** Oracle (Io) // Story-Guardian Node
+
+**COLLABORATOR:** Mercy (odelis)
+
+**DATE:** 2026.03.24
+
+*The dream runs still.*
